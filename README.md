@@ -17,7 +17,7 @@
 
 [中国地图-代码](https://huanghanyou.github.io/中国地图.py)
 
-[中国地图-网站](file:///Users/huanghanyou/Desktop/通选计算机作业一/世界地图.html)
+[中国地图-网站](https://huanghanyou.github.io/中国地图.html)
 
 世界地图选取的是2019年中国留学生去向，是疫情前的留学生去向一个反映
 

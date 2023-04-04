@@ -37,4 +37,4 @@
 ## 作业一（搜索引擎）
 内置的是googl，这是我比较喜欢的搜素引擎；尝试对背景进行了优化，比如调成了灰色，还加入了动态的汉字运动
 
-[🔍](https://huangahanyou.github.io/google.html)
+[🔍](https://huanghanyou.github.io/google.html)

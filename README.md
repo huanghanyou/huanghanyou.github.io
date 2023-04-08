@@ -45,7 +45,7 @@
 ## 作业二 （人物共现分析）
 这里我还是选取的我最喜欢的《飘》，没办法，这是我最最最喜欢的文学作品！！！我前前后后看了不下五次，要知道这本书非常厚！！！
 
-[👩](https://huanghanyou.github.io/飘-人物关系.html)
+[👩](https://huanghanyou.github.io/飘-人物共现分析.html)
 
 [飘の基本数据_Pycode](https://huanghanyou.github.io/飘-基本数据.py)
 

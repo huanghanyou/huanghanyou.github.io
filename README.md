@@ -47,6 +47,6 @@
 
 [👩](https://huanghanyou.github.io/飘-人物关系.html)
 
-[飘の基本数据_Pycode](https://huanghanyou.github.io/飘-基本数据.html)
+[飘の基本数据_Pycode](https://huanghanyou.github.io/飘-基本数据.py)
 
-[飘の人物关系_Pycode](https://huanghanyou.github.io/飘-人物关系.html)
+[飘の人物关系_Pycode](https://huanghanyou.github.io/飘-人物关系.py)
